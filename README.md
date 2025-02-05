@@ -47,7 +47,8 @@
         </a>
     </div>
 </section>
-
+<section>
 <footer>
     <p>⚡ <strong>Fun Fact:</strong> I once <strong>founded</strong> a sneaker reselling business called <strong>Fiyhigh Shoes</strong> and <strong>managed</strong> it for a duration of 4 years! 🏀👟</p>
 </footer>
+</section>
