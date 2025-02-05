@@ -30,8 +30,7 @@
 <section>
     <h2>🌱 Learning & Interests</h2>
     <ul>
-        <li>Advanced React.js & Next.js</li>
-        <li>Backend Development with Node.js & Express.js</li>
+        <li>Advanced React.js </li>
         <li>Cloud Services & DevOps</li>
     </ul>
 </section>
