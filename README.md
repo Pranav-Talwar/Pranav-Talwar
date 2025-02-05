@@ -12,12 +12,14 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     </div>
-    <ul>
-        <li><strong>Frontend:</strong> HTML, CSS, Bootstrap, React.js</li>
-        <li><strong>Backend:</strong> Node.js, Express.js, Java (Swing for GUI), MySQL</li>
-        <li><strong>Tools & Platforms:</strong> Git, GitHub, Postman, Firebase, Linux</li>
-        <li><strong>Other Skills:</strong> Full-Stack Development, Database Management, API Integration, Google Ads, Facebook Business</li>
-    </ul>
+   <ul>
+    <li><strong>Web Development:</strong> HTML, CSS, React.js, Node.js, Express.js, RESTful APIs</li>
+    <li><strong>Database Management:</strong> MySQL, PostgreSQL, MongoDB</li>
+    <li><strong>Version Control:</strong> Git, GitHub</li>
+    <li><strong>Tools & Frameworks:</strong> Bootstrap, Tailwind, jQuery, EJS, Swing</li>
+    <li><strong>Other Skills:</strong> Debugging, Unit Testing, Responsive Design</li>
+</ul>
+
 </section>
 <section>
     <h2>📌 Projects</h2>
