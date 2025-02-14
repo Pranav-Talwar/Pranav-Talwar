@@ -1,6 +1,6 @@
 <section>
     <h2>🚀 About Me</h2>
-    <p>I'm a <strong>Computer Programming student at Red Deer Polytechnic</strong> with a strong passion for software development, web technologies, and problem-solving. Currently, I'm seeking an <strong>internship</strong> to apply my skills in a real-world environment and contribute to impactful projects.</p>
+    <p>I'm a <strong>Computer Programming student at Red Deer Polytechnic</strong> with a strong passion for Full Stack Web Development, web technologies, and problem-solving. Currently, I'm seeking an <strong>internship</strong> to apply my skills in a real-world environment and contribute to impactful projects.</p>
 </section>
 
 <section>
