@@ -11,8 +11,7 @@
      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="32" height="32" style="vertical-align: middle; filter: invert(40%) sepia(90%) saturate(1000%) hue-rotate(190deg);">
-</div>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></div>
    <ul>
     <li><strong>Web Development:</strong> HTML, CSS, React.js, Node.js, Express.js, RESTful APIs</li>
     <li><strong>Database Management:</strong> MySQL, PostgreSQL, MongoDB</li>
