@@ -12,7 +12,14 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></div>
-<ul>
+     <ul>
+    <li><strong>Web Development:</strong> HTML, CSS, React.js, Node.js, Express.js, RESTful APIs</li>
+    <li><strong>Database Management:</strong> MySQL, PostgreSQL, MongoDB</li>
+    <li><strong>Version Control:</strong> Git, GitHub</li>
+    <li><strong>Tools & Frameworks:</strong> Bootstrap, Tailwind, jQuery, EJS, Swing</li>
+    <li><strong>Other Skills:</strong> Debugging, Unit Testing, Responsive Design</li>
+</ul>
+<!-- <ul>
     <li><strong>Frontend Development:</strong> React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery</li>
     <li><strong>Backend Development:</strong> Node.js, Spring Boot, Express.js, Hono, RESTful APIs</li>
     <li><strong>Databases & ORMs:</strong> PostgreSQL, MySQL, MongoDB, Oracle DB, Prisma ORM</li>
@@ -20,7 +27,7 @@
     <li><strong>Tools & Workflows:</strong> Git/GitHub, Monorepo, CI/CD</li>
     <li><strong>Security:</strong> Token-Based Authentication (JWT), OAuth, NextAuth.js</li>
 </ul>
-
+ -->
 
 </section>
 <section>
