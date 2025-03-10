@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></div>
      <ul>
-    <li><strong>Web Development:</strong>  React.js, Next.js, Node.js, Express.js, HTML, CSS, RESTful APIs</li>
+    <li><strong>Web Development:</strong>  React.js, Next.js, Node.js, Express.js, HTML, CSS</li>
     <li><strong>Databases & ORMs: </strong>PostgreSQL, MySQL, MongoDB, Oracle DB,  Prisma ORM</li>
     <li><strong>Version Control:</strong> Git, GitHub</li>
     <li><strong>Tools & Frameworks:</strong> Bootstrap, Tailwind, jQuery, EJS, Swing</li>
