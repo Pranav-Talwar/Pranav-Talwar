@@ -30,13 +30,7 @@
  -->
 
 </section>
-<section>
-    <h2>📌 Projects</h2>
-    <ul>
-        <li><strong><a href="https://github.com/Pranav-Talwar/NewMonkey">NewsJam</a></strong> - A React-based news app that fetches articles from an API, features category-based navigation, pagination, and a clean UI.</li>
-        <li><strong>RDPCampusConnect - Student Blogging Platform (In Progress)</strong> - A student-centric blogging platform built with React, Node.js, Express, MongoDB, and Tailwind CSS. It facilitates communication and engagement within the Red Deer Polytechnic community, with features for blog creation, editing, and interactive commenting, allowing students to share thoughts and interact with peers.</li>
-    </ul>
-</section>
+
 
 <section>
     <h2>🌱 What I'm Exploring</h2>
@@ -59,7 +53,5 @@
     </div>
 </section>
 <br> 
-<footer>
-    <p>⚡ <strong>Fun Fact:</strong> I once <strong>founded</strong> a sneaker reselling business called <strong>Fiyhigh Shoes</strong> and <strong>managed</strong> it for a duration of 4 years! 🏀👟</p>
-</footer>
+
 
