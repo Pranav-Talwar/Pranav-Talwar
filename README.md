@@ -35,7 +35,7 @@
 <section>
     <h2>🌱 What I'm Exploring</h2>
     <ul>
-        <li>Advanced React.js </li>
+        <li>Next.js </li>
         <li>Cloud Services & DevOps</li>
     </ul>
 </section>
