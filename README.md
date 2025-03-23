@@ -56,7 +56,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
 
 - **Exploring:**  
-  Serverless Architectures | GraphQL | Kubernetes
+  Serverless Architectures | Kubernetes
 
 ---
 
