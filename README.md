@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranav-talwar1)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat&logo=gmail)](mailto:talwarpranav929@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-4CAF50?style=flat&logo=material-ui)](https://www.pranavtalwar.ca)
 ---
 
 ## 🛠️ Technical Arsenal
@@ -51,20 +51,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### **Project 1** | [Live Demo](link) | [GitHub](link)
-- Full stack application using Next.js + TypeScript + Prisma
-- Implemented JWT authentication with Redis session management
-- Optimized performance through AWS CloudFront CDN
-
-### **Project 2** | [Case Study](link) | [GitHub](link)
-- Microservices architecture with Docker containerization
-- CI/CD pipeline using GitHub Actions
-- Load tested with k6 achieving 10k RPM
-
----
-
 ## 🌱 Current Learning Journey
 
 - **Deep Diving Into:**  
@@ -84,7 +70,5 @@
 
 ---
 
-## 💬 Let's Connect!
 
-- 🔗 [Portfolio Website](https://yourportfolio.com)
 
