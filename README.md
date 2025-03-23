@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranav-talwar1)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat&logo=gmail)](mailto:talwarpranav929@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=Pranav-Talwar&color=blueviolet&style=flat)
 
 ---
 
