@@ -27,7 +27,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3776AB?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
 
 ### **Backend Development**
@@ -38,16 +37,16 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=json)
 
 ### **Databases & ORMs**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-?style=F80000for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=mongodb)
+![Oracle DB](https://img.shields.io/badge/Oracle-316192?style=for-the-badge&logo=oracle)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![Docker](https://img.shields.io/badge/Docker-F38020?style=for-the-badge&logo=docker)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-2496ED?style=for-the-badge&logo=cloudflare)
 
 
 ---
