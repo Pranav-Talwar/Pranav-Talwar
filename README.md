@@ -23,8 +23,8 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3776AB?style=for-the-badge&logo=tailwind-css)
 
 ### **Backend Expertise**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
+![Node.js](https://img.shields.io/badge/Node.js-ED8B00?style=for-the-badge&logo=nodedotjs)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F7DF1E?style=for-the-badge&logo=spring)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
 ### **Database Technologies**
