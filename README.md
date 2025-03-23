@@ -45,7 +45,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma)
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS%20(EC2%2C%20S3%2C%20CloudFront)-232F3E?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
 
