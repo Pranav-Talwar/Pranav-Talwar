@@ -37,7 +37,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=json)
 
 ### **Databases & ORMs**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-?style=F80000for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F80000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=mongodb)
 ![Oracle DB](https://img.shields.io/badge/Oracle-316192?style=for-the-badge&logo=oracle)
