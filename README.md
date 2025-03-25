@@ -3,9 +3,10 @@
 🎓 Computer Programming Student @ Red Deer Polytechnic  
 🚀 Passionate Full Stack Developer |  🔍 Seeking Internship Opportunities
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?logo=material-ui&style=flat-square&logoColor=white)](https://www.pranavtalwar.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-talwar1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:talwarpranav929@gmail.com)
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Visit&color=4CAF50&style=for-the-badge&logo=material-ui)](https://www.pranavtalwar.ca)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-talwar1)
+[![Email](https://img.shields.io/static/v1?label=Email&message=Reach%20Out&color=D14836&style=for-the-badge&logo=gmail)](mailto:talwarpranav929@gmail.com)
+
 
 
 ---
