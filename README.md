@@ -7,6 +7,10 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-talwar1)  &nbsp;
 [![Email](https://img.shields.io/static/v1?label=Email&message=Reach%20Out&color=D14836&style=for-the-badge&logo=gmail)](mailto:talwarpranav929@gmail.com)
 
+[![Portfolio](https://www.badgestack.io/api/v1/badge?label=Portfolio&message=Visit&color=4CAF50&style=rounded&logo=material-ui)](https://www.pranavtalwar.ca)
+[![LinkedIn](https://www.badgestack.io/api/v1/badge?label=LinkedIn&message=Connect&color=0077B5&style=rounded&logo=linkedin)](https://www.linkedin.com/in/pranav-talwar1)
+[![Email](https://www.badgestack.io/api/v1/badge?label=Email&message=Reach%20Out&color=D14836&style=rounded&logo=gmail)](mailto:talwarpranav929@gmail.com)
+
 
 ---
 
