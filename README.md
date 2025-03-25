@@ -3,17 +3,11 @@
 🎓 Computer Programming Student @ Red Deer Polytechnic  
 🚀 Passionate Full Stack Developer |  🔍 Seeking Internship Opportunities
 
-[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Visit&color=4CAF50&style=for-the-badge&logo=material-ui)](https://www.pranavtalwar.ca) &nbsp;
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-talwar1)  &nbsp;
-[![Email](https://img.shields.io/static/v1?label=Email&message=Reach%20Out&color=D14836&style=for-the-badge&logo=gmail)](mailto:talwarpranav929@gmail.com)
+
 
 [![Portfolio](https://badgen.net/badge/Portfolio/Visit/4CAF50?icon=material-ui)](https://www.pranavtalwar.ca)
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/0077B5?icon=linkedin)](https://www.linkedin.com/in/pranav-talwar1)
 [![Email](https://badgen.net/badge/Email/Reach%20Out/D14836?icon=gmail)](mailto:talwarpranav929@gmail.com)
-
-[![Portfolio](https://supershields.io/badge/Portfolio-Visit-4CAF50?icon=material-ui)](https://www.pranavtalwar.ca)
-[![LinkedIn](https://supershields.io/badge/LinkedIn-Connect-0077B5?icon=linkedin)](https://www.linkedin.com/in/pranav-talwar1)
-[![Email](https://supershields.io/badge/Email-Reach%20Out-D14836?icon=gmail)](mailto:talwarpranav929@gmail.com)
 
 
 
