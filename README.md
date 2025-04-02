@@ -5,7 +5,7 @@
 
 
 
-[![Portfolio](https://badgen.net/badge/Portfolio-4CAF50?icon=material-ui)](https://www.pranavtalwar.ca)
+[![Portfolio](https://badgen.net/badge/pranavtalwar.ca?icon=material-ui)](https://www.pranavtalwar.ca)
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/0077B5?icon=linkedin)](https://www.linkedin.com/in/pranav-talwar1)
 [![Email](https://badgen.net/badge/Email/Reach%20Out/D14836?icon=gmail)](mailto:talwarpranav929@gmail.com)
 
