@@ -67,7 +67,7 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranav-talwa&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranav-talwar&theme=dark)](https://git.io/streak-stats)
 
 
 ---
