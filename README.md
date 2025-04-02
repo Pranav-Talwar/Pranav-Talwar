@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pranav Talwar
 
 🎓 Computer Programming Student @ Red Deer Polytechnic  
-🚀  Full Stack Developer |  🔍 Seeking Internship Opportunities
+🚀  Full Stack Development |  Data Analysis
 
 
 
