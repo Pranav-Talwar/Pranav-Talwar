@@ -63,11 +63,12 @@
 - **Exploring:**  
   Serverless Architectures | Kubernetes
 
+
 ---
 
-## 📈 GitHub Stats
+<img align="left" alt="Pranav-Talwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranav-talwar&show_icons=true&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pranav-Talwar&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-talwar&show_icons=true&hide_border=true)](https://github.com/Pranav-Talwar)
 
 
 ---
