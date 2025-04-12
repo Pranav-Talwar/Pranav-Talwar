@@ -67,6 +67,7 @@
 ---
 
 <img align="left" alt="Pranav-Talwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranav-talwar&show_icons=true&hide_border=true" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-talwar&show_icons=true&hide_border=true)](https://github.com/Pranav-Talwar)
 
 
