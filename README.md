@@ -68,7 +68,10 @@
 
 <img align="left" alt="Pranav-Talwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranav-talwar&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-talwar&show_icons=true&hide_border=true)]([https://github.com/pranav-talwar])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-talwar&include_all_commits=false&count_private=false&show_icons=true&hide_border=true)]([https://github.com/pranav-talwar])
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshunchauhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+
 
 
 
