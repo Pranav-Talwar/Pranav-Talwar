@@ -56,7 +56,6 @@
 ## 🌱 Current Learning Journey
 
 - **Deep Diving Into:**  
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
 
