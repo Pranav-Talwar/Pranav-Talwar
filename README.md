@@ -63,10 +63,6 @@
 
 ---
 
- <img align="left" alt="Pranav-Talwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranav-talwar&count_private=true&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-talwar&include_all_commits=false&count_private=false&show_icons=true&hide_border=true)]([https://github.com/pranav-talwar])
-
 
 
 
