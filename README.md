@@ -19,6 +19,3 @@ Currently Working on **[XtapX-Labs](https://github.com/xtapx-labs)**
 
 **DB** · PostgreSQL · MySQL · MongoDB · Oracle · Prisma
 
----
-
-<sub>Based in Alberta</sub>
