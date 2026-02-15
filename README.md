@@ -15,7 +15,7 @@ Currently Working on **[XtapX-Labs](https://github.com/xtapx-labs)**
 
 **Frontend** · React · Next.js · Tailwind CSS · HTML/CSS
 
-**Backend** · Node.js · Express · Spring Boot · Supabase
+**Backend** · Node.js · Django · Spring Boot · Supabase
 
 **DB** · PostgreSQL · MySQL · MongoDB · Oracle · Prisma
 
